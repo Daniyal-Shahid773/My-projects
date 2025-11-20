@@ -1,0 +1,77 @@
+Line 1 | MAIN keyword detected
+Line 1 | BLOCK_START detected
+Line 3 | INT keyword detected
+Line 3 | IDENTIFIER: umar
+Line 3 | INT literal: 25
+Line 4 | INT keyword detected
+Line 4 | IDENTIFIER: saal
+Line 4 | INT literal: 2
+Line 6 | STRING keyword detected
+Line 6 | IDENTIFIER: shayari
+Line 6 | STRING literal: "Chaand bhi sharma jaye"
+Line 7 | BOOLEAN keyword detected
+Line 7 | IDENTIFIER: ishqKaHaal
+Line 7 | TRUE literal detected
+Line 9 | PRINT keyword detected
+Line 9 | Left Parenthesis detected
+Line 9 | STRING literal: "Umar: "
+Line 9 | COMMA detected
+Line 9 | IDENTIFIER: umar
+Line 9 | IDENTIFIER: khwaab
+Line 11 | IF keyword detected
+Line 11 | Left Parenthesis detected
+Line 11 | IDENTIFIER: umar
+Line 11 | IDENTIFIER: saal
+Line 11 | IDENTIFIER: khwaab
+Line 11 | BLOCK_START detected
+Line 12 | PRINT keyword detected
+Line 12 | Left Parenthesis detected
+Line 12 | STRING literal: "Safar lamba hai"
+Line 12 | IDENTIFIER: khwaab
+Line 13 | BLOCK_START detected
+Line 15 | WHILE keyword detected
+Line 15 | Left Parenthesis detected
+Line 15 | IDENTIFIER: umar
+Line 15 | INT literal: 100
+Line 15 | IDENTIFIER: khwaab
+Line 15 | BLOCK_START detected
+Line 16 | PRINT keyword detected
+Line 16 | Left Parenthesis detected
+Line 16 | STRING literal: "Safar chota hai"
+Line 16 | IDENTIFIER: khwaab
+Line 17 | BLOCK_START detected
+Line 19 | IDENTIFIER: umar
+Line 19 | IDENTIFIER: umar
+Line 19 | ADD operator detected
+Line 19 | INT literal: 5
+Line 20 | IDENTIFIER: saal
+Line 20 | IDENTIFIER: saal
+Line 20 | SUB operator detected
+Line 20 | INT literal: 1
+Line 22 | BREAK keyword detected
+Line 24 | RETURN keyword detected
+Line 24 | TERMINATOR detected
+Line 26 | IDENTIFIER: ERRORS
+Line 28 | IDENTIFIER: illegalSymbol
+Line 29 | IDENTIFIER: wrongToken
+Line 30 | IDENTIFIER: unterminated
+Line 30 | IDENTIFIER: string
+Line 31 | ADD operator detected
+Line 31 | IDENTIFIER: invalid
+Line 31 | IDENTIFIER: operator
+Line 31 | IDENTIFIER: usage
+Line 32 | FALSE literal detected
+Line 32 | IDENTIFIER: extra
+Line 32 | IDENTIFIER: punctuation
+Line 33 | BLOCK_START detected
+Line 33 | IDENTIFIER: doubled
+Line 33 | IDENTIFIER: punctuation
+Line 33 | IDENTIFIER: not
+Line 33 | IDENTIFIER: defined
+Line 34 | TERMINATOR detected
+Line 34 | IDENTIFIER: illegal
+Line 34 | IDENTIFIER: repetition
+Line 35 | Left Parenthesis detected
+Line 35 | IDENTIFIER: broken
+Line 35 | Right Parenthesis detected
+Line 35 | IDENTIFIER: extra

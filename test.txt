@@ -1,0 +1,35 @@
+Aaghaaz-e-Ghazal ::bahaar::
+
+Lehja-e-Hisaab umar = 25 ;
+Lehja-e-Hisaab saal = 2 ;
+
+Bole-e-Mohabbat shayari = "Chaand bhi sharma jaye" ;
+Sachchi-Sadaa ishqKaHaal = Naghma-e-Haq ;
+
+Suno-Aey-Dilbar (nazar "Umar: " ,sukoon, umar khwaab!) ;
+
+Gar-Yun-Ho (nazar umar > saal khwaab!) ::bahaar::
+    Suno-Aey-Dilbar (nazar "Safar lamba hai" khwaab!) ;
+::bahaar::
+
+Warna-Yun-Na-Ho (nazar umar < 100 khwaab!) ::bahaar::
+    Suno-Aey-Dilbar (nazar "Safar chota hai" khwaab!) ;
+::bahaar::
+
+umar = umar ishq+ 5 ;
+saal = saal gham- 1 ;
+
+Toota-Hua-Alfaaz ;
+
+Anjaam-e-Naghma !aasar!
+
+# ERRORS #
+
+@illegalSymbol
+$wrongToken
+"unterminated string
+ishq+??   # invalid operator usage
+Saaz-e-Fareb??  # extra punctuation
+::bahaar::::     # doubled punctuation not defined
+!!!aasar!        # illegal repetition
+(nazar broken khwaab))extra
